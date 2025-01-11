@@ -74,13 +74,15 @@
     
  }
 
- .section-1{
+ .section-1 .section-4 .section-2 {
     height: 560px;
-    width: 1280px;
+    width: 1000px;
     margin: auto;
+    padding: auto;
+    justify-content: space-between;
 
  }
- .section-2,section-3{
+ .section-2{
     height: 560px;
     width: 1280px;
     margin: auto;
@@ -110,6 +112,7 @@
  .style{
     display: flex;
     gap: 10px;
+   
  }
  .blue{
     margin-bottom: 1000px;
